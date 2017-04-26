@@ -7,13 +7,13 @@
 
 # 1Clipboard
 
-**1Clipboard is Electron based modern web application written by Typescript using Angular2 (angular-cli) + ngrx (redux for Angular) + pouchdb.** I can't say this project is the best example, but anyway it is worth to look for those who are going to use Angular framework as their native application. This project is still a work in progress and not yet ready for production.
+**1Clipboard is Electron based modern web application written by Typescript using Angular4 (angular-cli) + ngrx (redux for Angular) + PouchDB.** I can't say this project is the best example, but anyway it is worth to look for those who are going to use Angular framework as their native application. This project is still a work in progress and not yet ready for production.
 
 ## Note
 
-The developer is currently working on this project from scratch with the newer web technology, so the source code is different from the released version.
+I am currently working on this project from scratch with the newer web technology, so the source code is different from the released version.
 I am going to open this project as a public repository in the future when it is ready.
-If you want to access to the curerent private repo, please contact me with your github account. 
+If you want to access to the current private repo, please contact me with your github account. 
 
 ## Download
 
