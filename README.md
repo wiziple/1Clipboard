@@ -17,21 +17,11 @@ If you want to access to the current private repo, please contact me with your g
 
 ## Download
 
-You can download current released version of 1Clipboard for Windows, macOS from [http://1clipboard.io](http://1clipboard.io).
-
-## Tech Stack
-
-- [Electron](https://electron.atom.io)
-- [Angular (Angular-cli)](https://cli.angular.io/)
-- ngrx (Redux for Angular)
-    - [store](https://github.com/ngrx/store)
-    - [effects](https://github.com/ngrx/effects)
-- [PouchDB](https://pouchdb.com/)
-- [Webpack](https://webpack.github.io/)
+You can download the current released version of 1Clipboard for Windows, and macOS from [http://1clipboard.io](http://1clipboard.io).
 
 ## Support
 
-If you like this project, you can support me by starring this repository, or getting in touch at <contact@1clipboard.io>
+If you like this project, you can support me by starring this repository or getting in touch at <contact@1clipboard.io>
 
 ## License
 MIT © [wiziple](https://github.com/wiziple)
